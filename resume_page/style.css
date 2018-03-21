@@ -1,6 +1,35 @@
 h1 {
     text-align: center;
     font-size: 30px;
-    color: green;
+    color: white;
     padding: 15px 20px;
+}
+img {
+
+    padding: 20px 70px 20px 70px;
+}
+body{
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+
+}
+
+ul li a{
+    float: left;
+    width: 350px;
+    height: 40px;
+    line-height: 40px;
+    text-align: wrap;
+    font-size: 20px;
+    padding: 30px 0px 30px 0px;
+    color: white;
+    text-decoration: none;
+
+
+
 }
